@@ -1,5 +1,5 @@
 -- =============================================================
--- Query: Categorize Customers by Monthly Transaction Frequency
+-- Query: Transaction Frequency Analysis
 -- Description:
 -- This query classifies customers into High, Medium, or Low 
 -- frequency tiers based on their average number of confirmed 

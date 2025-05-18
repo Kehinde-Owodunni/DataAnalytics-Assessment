@@ -1,5 +1,5 @@
 -- ============================================================
--- Query: Identify Inactive Savings and Investment Plans
+-- Query: Account Inactivity Alert
 -- Description:
 -- This query returns all non-deleted, non-archived plans 
 -- (either savings or investment) that have been inactive for 
